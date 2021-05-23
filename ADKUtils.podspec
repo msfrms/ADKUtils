@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
   s.frameworks       = 'Foundation'
   s.module_name      = 'ADKUtils'
   s.dependency 'SUtils', '~> 0.1'
-  s.dependency 'Texture', '~> 2.0'
+  s.dependency 'Texture', '~> 3.0.0'
   
 end
